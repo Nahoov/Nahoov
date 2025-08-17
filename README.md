@@ -60,23 +60,6 @@ Olá! me chamo Nahomi Ribas, tenho 21 anos. Atualmente estou cursando Análise e
 
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
