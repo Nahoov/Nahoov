@@ -4,7 +4,7 @@
 
 Olá! me chamo Nahomi Ribas, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade UNISUAM. Sou apaixonada por tecnologia e estou construindo passo a passo minha trajetória com projetos pessoais! Busco uma oportunidade no mercado de trabalho para desenvolver muito mais rápido minhas habilidades técnicas.
 
-<p align="left">
+<!--<p align="left">
     <a href="https://github.com/Nahoov?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -20,7 +20,7 @@ Olá! me chamo Nahomi Ribas, tenho 21 anos. Atualmente estou cursando Análise e
         />
     </a>
 </p>
-
+-->
 ---
 
 ### 🤖 Linguagens e Tecnologias
