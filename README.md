@@ -5,15 +5,6 @@
 Olá! me chamo Nahomi Ribas, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade UNISUAM. Sou apaixonada por tecnologia e estou construindo passo a passo minha trajetória com projetos pessoais! Busco uma oportunidade no mercado de trabalho para desenvolver muito mais rápido minhas habilidades técnicas.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    />
-    </a> 
     <a href="https://github.com/Nahoov?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
