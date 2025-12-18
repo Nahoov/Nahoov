@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá! me chamo Nahomi Ribas, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade UNISUAM. Sou apaixonada por tecnologia e estou construindo passo a passo minha trajetória com projetos pessoais! Busco uma oportunidade no mercado de trabalho para desenvolver muito mais rápido minhas habilidades técnicas.
+Olá! me chamo Nahomi Ribas, tenho 21 anos. Atualmente me formei em Análise e Desenvolvimento de Sistemas na faculdade UNISUAM. Sou apaixonada por tecnologia e estou construindo passo a passo minha trajetória com projetos pessoais! Busco uma oportunidade no mercado de trabalho para desenvolver muito mais rápido minhas habilidades técnicas.
 
 <!--<p align="left">
     <a href="https://github.com/Nahoov?tab=repositories&sort=stargazers">
